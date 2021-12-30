@@ -11,5 +11,3 @@ All code is licensed under the terms of the MIT license.
    ```
    pip3 install -r requirements.txt
    ```
-
-
