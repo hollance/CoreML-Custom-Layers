@@ -8,7 +8,7 @@ All code is licensed under the terms of the MIT license.
 -  Python 3.7
 
 # Requirements
-   ```python
+   ```
    pip3 install -r requirements.txt
    ```
 
