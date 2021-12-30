@@ -5,7 +5,7 @@ This is the source code for my blog post [Custom Layers in Core ML](http://machi
 All code is licensed under the terms of the MIT license.
 
 # Prerequisites
--  Python 3.6
+-  Python 3.7
 
 # Requirements
    ```python
